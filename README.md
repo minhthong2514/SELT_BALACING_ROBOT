@@ -1,10 +1,10 @@
 SELT_BALACING_ROBOT
 I use DIY robot with:
 
-ESP32
-MPU6050
-L298N
-Motor JGA37-520 333RPM x 2
-Battery 12v
-Ổn áp 12V XL6009 x 1
-Switch power
+1.ESP32
+2.MPU60502
+3.L298N
+4.Motor JGA37-520 333RPM x 2
+5.Battery 12v
+6.Ổn áp 12V XL6009 x 1
+7.Switch power
