@@ -26,7 +26,6 @@ git clone https://github.com/minhthong2514/SELF_BALACING_ROBOT.git
 
 # Results
 ### GUI
-<video src="./imgs/gui.mp4" width="320" height="240" controls preload></video>
-
+https://github.com/user-attachments/assets/62aa860f-5bdb-4b3d-9ef6-057d7cb7f628
 ### Balancing Mode
-<video src="./imgs/balancing_mode.mp4" width="320" height="240" controls preload></video> -->
+https://github.com/user-attachments/assets/e0b75a1c-9a42-4c8f-a1b0-91bae187dc8c
