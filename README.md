@@ -10,7 +10,11 @@ A self-balancing two-wheeled vehicle is a compact system capable of maintaining 
 - Battery 12v
 - Ổn áp 12V XL6009 x 1
 - Switch power
-![](./imgs/hardwares.png)
+
+!["This is hardware of two wheel balancing robot"](./imgs/hardwares.png)
+
+## Schematic
+!["This is schematic of two wheel balancing robot"](./imgs/schematic.png)
 
 ## Tuning PID
 The PID parameters in this code are provided only as a reference and are specific to my hardware setup. You will need to retune the PID controller for your own system. The tuning order I recommend is P, D, and then I. First, increase the P gain until the system begins to overshoot. Next, adjust the D gain to help stabilize the response. Finally, fine-tune the I gain to reduce any remaining steady-state error over time.
@@ -22,7 +26,7 @@ git clone https://github.com/minhthong2514/SELF_BALACING_ROBOT.git
 
 # Results
 ### GUI
-<video src="./imgs/gui.mp4" controls preload></video>
+<video src="./imgs/gui.mp4" width="320" height="240" controls preload></video>
 
 ### Balancing Mode
-<video src="./imgs/balancing_mode.mp4" controls preload></video>
+<video src="./imgs/balancing_mode.mp4" width="320" height="240" controls preload></video> -->
